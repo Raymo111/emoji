@@ -533,3 +533,4 @@ Emoji | Link
 ![thumbsup_all.gif](https://emoj.ml/thumbsup_all.gif) | [https://emoj.ml/thumbsup_all.gif](https://emoj.ml/thumbsup_all.gif)
 ![wolfiriblob.png](https://emoj.ml/wolfiriblob.png) | [https://emoj.ml/wolfiriblob.png](https://emoj.ml/wolfiriblob.png)
 ![wumpusblob.png](https://emoj.ml/wumpusblob.png) | [https://emoj.ml/wumpusblob.png](https://emoj.ml/wumpusblob.png)
+<hr>
