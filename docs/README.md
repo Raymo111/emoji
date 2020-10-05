@@ -11,6 +11,8 @@ You can download everything on this site from the GitHub [repo](https://github.c
 ## List of all emoji
 Dynamically updated by a GitHub Action
 
+<script src="{{ base.url | prepend: site.url }}/assets/click-to-copy.js"></script>
+
 Emoji | Link
 --- | ---
 ![ab1nzyblob2.gif](https://emoj.ml/ab1nzyblob2.gif) | https://emoj.ml/ab1nzyblob2.gif
