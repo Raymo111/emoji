@@ -10,9 +10,7 @@ You can download everything on this site from the GitHub [repo](https://github.c
 
 ## List of all emoji
 Dynamically updated by a GitHub Action
-<hr>
-
-
+| --- | --- |
 
 ab1nzyblob2.gif
 
