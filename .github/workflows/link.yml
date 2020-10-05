@@ -15,14 +15,13 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          cp docs/README.md .
-          sed -i '1,/--- | ---/p;/<hr>/,$p' README.md
+          sed -i '1,/--- | ---/!d' README.md
           ls docs | awk '{print "!["$0"](https://emoj.ml/"$0") | [https://emoj.ml/"$0"](https://emoj.ml/"$0")"}' >> README.md
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
-          cp README.md docs/
-          sed -i '/<script>/d' README.md
+          rm docs/README.md
+          ln README.md docs/
           git config --global user.name 'Runner'
           git config --global user.email 'runner@users.noreply.github.com'
           git commit -am "Automatically link emoji"
