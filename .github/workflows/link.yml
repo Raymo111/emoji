@@ -17,7 +17,7 @@ jobs:
         run: |
           cd docs
           sed '/<hr>/q' README.md
-          ls >> README.md
+          ls -1 >> README.md
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
@@ -27,4 +27,3 @@ jobs:
           git config --global user.email 'runner@users.noreply.github.com'
           git commit -am "Automatically link emoji"
           git push || echo "No emoji to update"
-          #git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{github.ref}} || echo "No emoji to update"
