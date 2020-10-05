@@ -22,4 +22,5 @@ jobs:
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
+          rm ../README.md
           ln README.md ../
