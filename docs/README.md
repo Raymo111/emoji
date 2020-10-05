@@ -7,3 +7,7 @@ Just link the relevant emoji (i.e. https://emoj.ml/blobheart.png). I'm still wor
 
 ## Download
 You can download everything on this site from the GitHub [repo](https://github.com/Raymo111/emoji/archive/main.zip)
+
+## List of all emoji
+Dynamically updated by a GitHub Action
+<hr>
