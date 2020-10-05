@@ -16,7 +16,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd docs
-          sed -n '1,/<hr>/!d' README.md
+          sed -i '1,/<hr>/!d' README.md
           ls | sed G >> README.md
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
