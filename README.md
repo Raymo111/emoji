@@ -12,8 +12,6 @@ You can download everything on this site from the GitHub [repo](https://github.c
 Dynamically updated by a GitHub Action
 <hr>
 
-LICENSE
-
 
 
 ab1nzyblob2.gif
