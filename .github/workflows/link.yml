@@ -21,7 +21,7 @@ jobs:
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
           cp README.md docs/
-          sed -i '/<script>/d' docs/README.md
+          sed -i '/<script>/d' README.md
           git config --global user.name 'Runner'
           git config --global user.email 'runner@users.noreply.github.com'
           git commit -am "Automatically link emoji"
