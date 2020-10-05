@@ -17,10 +17,11 @@ jobs:
         run: |
           cd docs
           sed '/<hr>/q' README.md
-          ls
           ls >> README.md
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
           rm ../README.md
           ln README.md ../
+          git add README.md ../README.md && git commit -m "Update emoji list" || echo "No emoji to update"
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No emoji to update"
