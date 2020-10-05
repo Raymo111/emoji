@@ -11,7 +11,7 @@ You can download everything on this site from the GitHub [repo](https://github.c
 ## List of all emoji
 Dynamically updated by a GitHub Action
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>-->
 
 Emoji | Link
 --- | ---
