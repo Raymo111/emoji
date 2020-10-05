@@ -17,7 +17,7 @@ jobs:
         run: |
           cd docs
           sed -n '/<hr>/q' README.md
-          ls >> README.md
+          ls | sed G >> README.md
           sed -i '/README.md/d' README.md
           sed -i '/_config.yml/d' README.md
           sed -i '/CNAME/d' README.md
