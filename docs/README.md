@@ -577,6 +577,8 @@ Emoji | Link
 ![googlesquirrel.png](https://emoj.ml/googlesquirrel.png) | [https://emoj.ml/googlesquirrel.png](https://emoj.ml/googlesquirrel.png)
 ![googleturtle.png](https://emoj.ml/googleturtle.png) | [https://emoj.ml/googleturtle.png](https://emoj.ml/googleturtle.png)
 ![googlewhale.png](https://emoj.ml/googlewhale.png) | [https://emoj.ml/googlewhale.png](https://emoj.ml/googlewhale.png)
+![grab.png](https://emoj.ml/grab.png) | [https://emoj.ml/grab.png](https://emoj.ml/grab.png)
+![grabbed.png](https://emoj.ml/grabbed.png) | [https://emoj.ml/grabbed.png](https://emoj.ml/grabbed.png)
 ![greentick.png](https://emoj.ml/greentick.png) | [https://emoj.ml/greentick.png](https://emoj.ml/greentick.png)
 ![heart_monkey.png](https://emoj.ml/heart_monkey.png) | [https://emoj.ml/heart_monkey.png](https://emoj.ml/heart_monkey.png)
 ![imp_monkey.png](https://emoj.ml/imp_monkey.png) | [https://emoj.ml/imp_monkey.png](https://emoj.ml/imp_monkey.png)
