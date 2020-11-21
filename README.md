@@ -531,6 +531,7 @@ Emoji | Link
 ![double_monkey.png](https://emoj.ml/double_monkey.png) | [https://emoj.ml/double_monkey.png](https://emoj.ml/double_monkey.png)
 ![dusty_stick.png](https://emoj.ml/dusty_stick.png) | [https://emoj.ml/dusty_stick.png](https://emoj.ml/dusty_stick.png)
 ![dying_Inside.png](https://emoj.ml/dying_Inside.png) | [https://emoj.ml/dying_Inside.png](https://emoj.ml/dying_Inside.png)
+![fatpepe.png](https://emoj.ml/fatpepe.png) | [https://emoj.ml/fatpepe.png](https://emoj.ml/fatpepe.png)
 ![feeling_hot_monkey.png](https://emoj.ml/feeling_hot_monkey.png) | [https://emoj.ml/feeling_hot_monkey.png](https://emoj.ml/feeling_hot_monkey.png)
 ![feelsblobman.png](https://emoj.ml/feelsblobman.png) | [https://emoj.ml/feelsblobman.png](https://emoj.ml/feelsblobman.png)
 ![ferretblob.png](https://emoj.ml/ferretblob.png) | [https://emoj.ml/ferretblob.png](https://emoj.ml/ferretblob.png)
