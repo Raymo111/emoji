@@ -524,6 +524,7 @@ Emoji | Link
 ![bowtie.png](https://emoj.ml/bowtie.png) | [https://emoj.ml/bowtie.png](https://emoj.ml/bowtie.png)
 ![canada_poggers.png](https://emoj.ml/canada_poggers.png) | [https://emoj.ml/canada_poggers.png](https://emoj.ml/canada_poggers.png)
 ![cat_monkey.png](https://emoj.ml/cat_monkey.png) | [https://emoj.ml/cat_monkey.png](https://emoj.ml/cat_monkey.png)
+![comfyblob.png](https://emoj.ml/comfyblob.png) | [https://emoj.ml/comfyblob.png](https://emoj.ml/comfyblob.png)
 ![confused_monkey.png](https://emoj.ml/confused_monkey.png) | [https://emoj.ml/confused_monkey.png](https://emoj.ml/confused_monkey.png)
 ![cubimal_chick.png](https://emoj.ml/cubimal_chick.png) | [https://emoj.ml/cubimal_chick.png](https://emoj.ml/cubimal_chick.png)
 ![cute_monkey.png](https://emoj.ml/cute_monkey.png) | [https://emoj.ml/cute_monkey.png](https://emoj.ml/cute_monkey.png)
